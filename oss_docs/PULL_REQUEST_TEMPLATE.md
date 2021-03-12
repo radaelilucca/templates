@@ -1,6 +1,6 @@
 ## Description
 
-Fix Add Mission modal close function;
+Fix Add Mission modal crashing the app on close;
 
 Card: [#326](http://taiga.dev.aquiline.io/project/admin-ad-portal/us/326?kanban-status=5)
 
